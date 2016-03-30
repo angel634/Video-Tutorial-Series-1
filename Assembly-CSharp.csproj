@@ -48,6 +48,8 @@
      <Compile Include="Assets\Scripts\Character.cs" />
      <Compile Include="Assets\Scripts\GenerateChunk.cs" />
      <Compile Include="Assets\Scripts\GenerateChunks.cs" />
+     <Compile Include="Assets\Scripts\Inventory.cs" />
+     <Compile Include="Assets\Scripts\TileData.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/Programs/Unity 5.3/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
